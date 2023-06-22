@@ -1,0 +1,326 @@
+,Ticker,URL,Company Name,AKA,SeekingAlpha_Category,SI_Category,Direct_Peers,Quant,SA Authors,Wall St.,Market Cap,Div Yield,Valuation,Growth,Profitability,Momentum,EPS Rev.
+0,ATEN,https://seekingalpha.com/symbol/ATEN,"A10 Networks, Inc.",,System Software,,,4.66,4.5,4.66,1060000000.0,0.0072,C-,C+,A,A+,A-
+1,ORCL,https://seekingalpha.com/symbol/ORCL,Oracle Corporation,,System Software,,,4.19,4.11,3.39,188520000000.0,0.0181,C+,C-,A+,B,B-
+2,FTNT,https://seekingalpha.com/symbol/FTNT,"Fortinet, Inc.",,System Software,,,3.42,3.75,4.26,48330000000.0,-,D-,C+,A,A,A
+3,MSFT,https://seekingalpha.com/symbol/MSFT,Microsoft Corporation,,System Software,,,3.39,3.75,4.65,1900000000000.0,0.0094,D-,C-,A+,B+,C-
+4,PANW,https://seekingalpha.com/symbol/PANW,"Palo Alto Networks, Inc.",,System Software,,,3.38,3.75,4.58,50710000000.0,-,F,B+,B+,A,A-
+5,SAIL,https://seekingalpha.com/symbol/SAIL,"SailPoint Technologies Holdings, Inc.",,System Software,,,3.33,4,3.2,6000000000.0,-,F,B,C,A+,C+
+6,QLYS,https://seekingalpha.com/symbol/QLYS,"Qualys, Inc.",,System Software,,,3.32,3,3.53,4690000000.0,-,D,D,A,A,A
+7,XPER,https://seekingalpha.com/symbol/XPER,Xperi Holding Corporation,,System Software,,,3.29,3,4.66,1540000000.0,0.0135,B+,F,B+,B,A
+8,TUFN,https://seekingalpha.com/symbol/TUFN,Tufin Software Technologies Ltd.,,System Software,,,3.25,5,3,484660000.0,-,D,C-,D-,A+,C+
+9,CRWD,https://seekingalpha.com/symbol/CRWD,"CrowdStrike Holdings, Inc.",,System Software,,,3.23,3.75,4.7,41290000000.0,-,F,A,B,B-,A
+10,PRGS,https://seekingalpha.com/symbol/PRGS,Progress Software Corporation,,System Software,,,3.19,3,4.4,1910000000.0,0.0157,C-,F,A-,A,B+
+11,MNDT,https://seekingalpha.com/symbol/MNDT,"Mandiant, Inc.",,System Software,,,3.15,3.5,2.8,5150000000.0,-,D-,F,D+,A+,C-
+12,CHKP,https://seekingalpha.com/symbol/CHKP,Check Point Software Technologies Ltd.,,System Software,,,3.14,4.33,3.21,15720000000.0,-,C-,F,A+,A,C
+13,BKYI,https://seekingalpha.com/symbol/BKYI,"BIO-key International, Inc.",,System Software,,,3.08,-,4,14140000.0,-,A-,C-,D-,C,A-
+14,NLOK,https://seekingalpha.com/symbol/NLOK,NortonLifeLock Inc.,,System Software,,,3.03,3.5,3.6,13350000000.0,0.0213,C+,D,A+,A-,D
+15,TMICY,https://seekingalpha.com/symbol/TMICY,Trend Micro Incorporated,,System Software,,,3.03,-,3,7310000000.0,0.0303,C+,F,A+,A,D-
+16,VMW,https://seekingalpha.com/symbol/VMW,"VMware, Inc.",,System Software,,,3.02,3.66,3.63,45890000000.0,-,C+,D+,A+,B+,D+
+17,ZS,https://seekingalpha.com/symbol/ZS,"Zscaler, Inc.",,System Software,,,2.98,3.83,4.46,21180000000.0,-,F,A,C+,D+,A+
+18,CVLT,https://seekingalpha.com/symbol/CVLT,"Commvault Systems, Inc.",,System Software,,,2.98,-,3.57,2590000000.0,-,D+,F,B+,B,B
+19,NOW,https://seekingalpha.com/symbol/NOW,"ServiceNow, Inc.",,System Software,,,2.95,3.4,4.62,87320000000.0,-,D-,B+,A,B-,B-
+20,TENB,https://seekingalpha.com/symbol/TENB,"Tenable Holdings, Inc.",,System Software,,,2.95,4,4.68,5190000000.0,-,F,B+,C+,A-,B-
+21,CYBR,https://seekingalpha.com/symbol/CYBR,CyberArk Software Ltd.,,System Software,,,2.93,4,4.57,5160000000.0,-,F,D-,C+,B,B
+22,ABST,https://seekingalpha.com/symbol/ABST,Absolute Software Corporation,,System Software,,,2.77,-,4,429310000.0,0.0301,C-,C-,B-,A-,C
+23,KNBE,https://seekingalpha.com/symbol/KNBE,"KnowBe4, Inc.",,System Software,,,2.76,3.5,4.3,2870000000.0,-,F,A-,B+,C,B
+24,DLB,https://seekingalpha.com/symbol/DLB,"Dolby Laboratories, Inc.",,System Software,,,2.74,-,4.4,7370000000.0,0.0133,D+,C-,B+,B,D+
+25,SCWX,https://seekingalpha.com/symbol/SCWX,SecureWorks Corp.,,System Software,,,2.7,-,2.4,858780000.0,-,B,C,C,C-,B
+26,FROG,https://seekingalpha.com/symbol/FROG,JFrog Ltd.,,System Software,,,2.69,4,3.77,2180000000.0,-,D-,C+,C+,B-,C+
+27,TDC,https://seekingalpha.com/symbol/TDC,Teradata Corporation,,System Software,,,2.67,3,3.4,3830000000.0,-,C-,D-,A-,B-,F
+28,RPD,https://seekingalpha.com/symbol/RPD,"Rapid7, Inc.",,System Software,,,2.66,3,4.26,4010000000.0,-,D+,A+,C,C-,C
+29,MNDY,https://seekingalpha.com/symbol/MNDY,monday.com Ltd.,,System Software,workflow,"ASAN,TEAM",2.64,4,4.33,4160000000.0,-,D-,D+,D+,D-,A+
+30,PING,https://seekingalpha.com/symbol/PING,Ping Identity Holding Corp.,,System Software,,,2.62,5,4.31,1520000000.0,-,C-,D,C,C+,C-
+31,VRNS,https://seekingalpha.com/symbol/VRNS,"Varonis Systems, Inc.",,System Software,,,2.6,4,4.55,3030000000.0,-,D-,A,C-,D+,B
+32,APPN,https://seekingalpha.com/symbol/APPN,Appian Corporation,,System Software,,,2.6,3.5,3.75,3460000000.0,-,F,C-,D,C+,B
+33,ALLT,https://seekingalpha.com/symbol/ALLT,Allot Ltd.,,System Software,,,2.56,5,3.5,180380000.0,-,B+,C+,D+,D-,B
+34,PATH,https://seekingalpha.com/symbol/PATH,UiPath Inc.,,System Software,,,2.55,3.66,4.09,10230000000.0,-,F,C,C-,D+,B-
+35,BB,https://seekingalpha.com/symbol/BB,BlackBerry Limited,,System Software,,,1.76,2.33,2.37,3260000000.0,-,C+,F,C-,C,C-
+36,IS,https://seekingalpha.com/symbol/IS,ironSource Ltd.,,System Software,,,1.73,4,4.18,3550000000.0,-,C,A,B+,D,D+
+37,OSPN,https://seekingalpha.com/symbol/OSPN,OneSpan Inc.,,System Software,,,1.72,3,4.5,427350000.0,-,B,D,C-,D+,F
+38,S,https://seekingalpha.com/symbol/S,"SentinelOne, Inc.",,System Software,,,1.5,2.6,4.36,6650000000.0,-,D,A+,D,D,D+
+39,TLS,https://seekingalpha.com/symbol/TLS,Telos Corporation,,System Software,,,1.37,3,4.16,506410000.0,-,C,B,D+,D,C
+40,ZUO,https://seekingalpha.com/symbol/ZUO,"Zuora, Inc.",,System Software,,,1.36,4,4.5,1120000000.0,-,D,A-,D+,D+,D-
+41,IRNT,https://seekingalpha.com/symbol/IRNT,"IronNet, Inc.",,System Software,,,1.11,1,3,246800000.0,-,D-,A-,F,D,F
+42,APGT,https://seekingalpha.com/symbol/APGT,"Appgate, Inc.",,System Software,,,-,-,-,988450000.0,-,-,-,-,-,-
+43,ASOZF,https://seekingalpha.com/symbol/ASOZF,Asseco Poland S.A.,,System Software,,,-,4,-,1310000000.0,-,-,-,-,-,-
+44,ASOZY,https://seekingalpha.com/symbol/ASOZY,Asseco Poland S.A.,,System Software,,,-,-,-,1310000000.0,-,-,-,-,-,-
+45,ATDS,https://seekingalpha.com/symbol/ATDS,"Data443 Risk Mitigation, Inc.",,System Software,,,-,-,-,3340000.0,-,-,-,-,-,-
+46,AVASF,https://seekingalpha.com/symbol/AVASF,Avast plc,,System Software,,,-,-,-,6560000000.0,-,-,-,-,-,-
+47,BPRMF,https://seekingalpha.com/symbol/BPRMF,Blue Prism Group plc,,System Software,,,-,-,-,1480000000.0,-,-,-,-,-,-
+48,CRAYF,https://seekingalpha.com/symbol/CRAYF,Crayon Group Holding ASA,,System Software,,,-,-,-,1180000000.0,-,-,-,-,-,-
+49,CSSDF,https://seekingalpha.com/symbol/CSSDF,Kape Technologies PLC,,System Software,,,-,-,-,1130000000.0,-,-,-,-,-,-
+50,DRKTF,https://seekingalpha.com/symbol/DRKTF,Darktrace plc,,System Software,,,-,4,-,2580000000.0,-,-,-,-,-,-
+51,DRKTY,https://seekingalpha.com/symbol/DRKTY,Darktrace plc,,System Software,,,-,-,-,2580000000.0,-,-,-,-,-,-
+52,GTLB,https://seekingalpha.com/symbol/GTLB,GitLab Inc.,,System Software,,,-,2.5,4.54,8320000000.0,-,-,-,-,-,-
+53,ADBE,https://seekingalpha.com/symbol/ADBE,Adobe Inc.,,Application Software,,,2.9,3.5,4.38,174550000000.0,-,D,C-,A+,C+,C-
+54,CRM,https://seekingalpha.com/symbol/CRM,"Salesforce, Inc.",,Application Software,,,3.23,3.77,4.57,160230000000.0,-,D+,D-,A+,C+,B+
+55,INTU,https://seekingalpha.com/symbol/INTU,Intuit Inc.,,Application Software,,,3.08,3.75,4.52,107150000000.0,0.0069,D-,C+,A+,B-,B+
+56,SAP,https://seekingalpha.com/symbol/SAP,SAP SE,,Application Software,,,2.71,4,3.72,102910000000.0,0.0236,C+,F,A+,C,D+
+57,TEAM,https://seekingalpha.com/symbol/TEAM,Atlassian Corporation Plc,,Application Software,workflow,"ASAN,MNDY",2.92,2.8,4.37,48150000000.0,-,F,A-,D+,C-,A-
+58,SNPS,https://seekingalpha.com/symbol/SNPS,"Synopsys, Inc.",,Application Software,,,4.52,4,4.4,46660000000.0,-,D,C+,A,A,B+
+59,CDNS,https://seekingalpha.com/symbol/CDNS,"Cadence Design Systems, Inc.",,Application Software,,,3.36,3.5,4.18,43290000000.0,-,D-,C-,A,A,B+
+60,ROP,https://seekingalpha.com/symbol/ROP,"Roper Technologies, Inc.",,Application Software,,,3.17,4,4.07,41850000000.0,0.0061,D,D,A,B+,B+
+61,ADSK,https://seekingalpha.com/symbol/ADSK,"Autodesk, Inc.",,Application Software,,,2.62,3,4.2,37140000000.0,-,D-,C,A,C+,D+
+62,WDAY,https://seekingalpha.com/symbol/WDAY,"Workday, Inc.",,Application Software,,,2.55,2.66,4.5,35740000000.0,-,D,B-,A-,D+,D+
+63,CNSWF,https://seekingalpha.com/symbol/CNSWF,Constellation Software Inc.,,Application Software,,,-,4.33,-,31320000000.0,-,-,-,-,-,-
+64,ZM,https://seekingalpha.com/symbol/ZM,"Zoom Video Communications, Inc.",,Application Software,,,2.95,3.06,3.71,29790000000.0,-,C-,D,A,D+,A-
+65,DDOG,https://seekingalpha.com/symbol/DDOG,"Datadog, Inc.",,Application Software,,,3.15,3.9,4.26,29490000000.0,-,F,A-,B,C+,A+
+66,TTD,https://seekingalpha.com/symbol/TTD,"The Trade Desk, Inc.",,Application Software,,,2.53,4,4.47,20960000000.0,-,D-,B,B+,D+,C
+67,ANSS,https://seekingalpha.com/symbol/ANSS,"ANSYS, Inc.",,Application Software,,,2.65,3.5,3.23,20390000000.0,-,D,D-,A-,C+,D+
+68,PLTR,https://seekingalpha.com/symbol/PLTR,Palantir Technologies Inc.,,Application Software,,,1.64,4.26,3.35,18500000000.0,-,D-,A-,C-,D,D-
+69,PAYC,https://seekingalpha.com/symbol/PAYC,"Paycom Software, Inc.",,Application Software,,,2.91,4,4.22,17520000000.0,-,D-,B,A-,B,B+
+70,SPLK,https://seekingalpha.com/symbol/SPLK,Splunk Inc.,,Application Software,,,3.97,4,3.97,15360000000.0,-,D+,A+,D+,C-,A-
+71,TYL,https://seekingalpha.com/symbol/TYL,"Tyler Technologies, Inc.",,Application Software,,,3.14,2,4.27,13620000000.0,-,D,D-,B,C+,A
+72,HUBS,https://seekingalpha.com/symbol/HUBS,"HubSpot, Inc.",,Application Software,,,1.77,3.66,4.4,13070000000.0,-,F,A-,C+,D,B-
+73,CTXS,https://seekingalpha.com/symbol/CTXS,"Citrix Systems, Inc.",,Application Software,,,3.18,5,3.25,12980000000.0,-,D-,D-,A-,A,B
+74,BILL,https://seekingalpha.com/symbol/BILL,"Bill.com Holdings, Inc.",,Application Software,,,2.9,2.5,4.47,12740000000.0,-,D+,C+,D,D+,A-
+75,NCSYF,https://seekingalpha.com/symbol/NCSYF,NICE Ltd.,,Application Software,,,-,4,-,12460000000.0,-,-,-,-,-,-
+76,NICE,https://seekingalpha.com/symbol/NICE,NICE Ltd.,,Application Software,,,3.23,4,4.36,12460000000.0,-,D+,C-,B,B,A+
+77,APP,https://seekingalpha.com/symbol/APP,AppLovin Corporation,,Application Software,,,2.52,4,4.5,12330000000.0,-,C,A+,C+,D,C+
+78,DOCU,https://seekingalpha.com/symbol/DOCU,"DocuSign, Inc.",,Application Software,,,1.18,3.3,3.26,12040000000.0,-,F,C+,B,D-,D+
+79,PTC,https://seekingalpha.com/symbol/PTC,PTC Inc.,,Application Software,,,4.14,2.5,4.38,11730000000.0,-,D+,C+,A-,A-,A-
+80,AZPN,https://seekingalpha.com/symbol/AZPN,"Aspen Technology, Inc.",,Application Software,,,4.79,4,4.14,11330000000.0,-,D,A,B-,A+,A+
+81,BSY,https://seekingalpha.com/symbol/BSY,"Bentley Systems, Incorporated",,Application Software,,,2.6,4,4.22,10670000000.0,0.0035,F,D-,B+,C+,B-
+82,DT,https://seekingalpha.com/symbol/DT,"Dynatrace, Inc.",,Application Software,,,2.65,4,4.22,10420000000.0,-,D-,B,B+,C,C+
+83,OTEX,https://seekingalpha.com/symbol/OTEX,Open Text Corporation,,Application Software,,,2.81,3,4.22,10060000000.0,0.0232,B-,D-,A-,B,C-
+84,U,https://seekingalpha.com/symbol/U,Unity Software Inc.,,Application Software,,,1.08,3.41,3.87,10050000000.0,-,D-,C-,C-,F,D
+85,PCTY,https://seekingalpha.com/symbol/PCTY,Paylocity Holding Corporation,,Application Software,,,3.22,-,4.35,9950000000.0,-,F,C-,B,B,A-
+86,WIGBY,https://seekingalpha.com/symbol/WIGBY,WiseTech Global Limited,,Application Software,,,-,-,-,9730000000.0,-,-,-,-,-,-
+87,WTCHF,https://seekingalpha.com/symbol/WTCHF,WiseTech Global Limited,,Application Software,,,-,-,-,9730000000.0,-,-,-,-,-,-
+88,BKI,https://seekingalpha.com/symbol/BKI,"Black Knight, Inc.",,Application Software,,,2.89,3,3.87,9670000000.0,-,C-,D,A,B+,C-
+89,ZEN,https://seekingalpha.com/symbol/ZEN,"Zendesk, Inc.",,Application Software,,,2.56,4,3.28,9160000000.0,-,F,A,C,C-,C
+90,XROLF,https://seekingalpha.com/symbol/XROLF,Xero Limited,,Application Software,,,-,-,-,8780000000.0,-,-,-,-,-,-
+91,AVEVF,https://seekingalpha.com/symbol/AVEVF,AVEVA Group plc,,Application Software,,,-,-,-,8140000000.000001,-,-,-,-,-,-
+92,AVVYY,https://seekingalpha.com/symbol/AVVYY,AVEVA Group plc,,Application Software,,,-,-,-,8140000000.000001,-,-,-,-,-,-
+93,DBX,https://seekingalpha.com/symbol/DBX,"Dropbox, Inc.",,Application Software,,,2.85,4.2,3.85,8100000000.0,-,B-,D,A,B,D
+94,SGGEF,https://seekingalpha.com/symbol/SGGEF,The Sage Group plc,,Application Software,,,-,-,-,8090000000.0,0.0301,-,-,-,-,-
+95,SGPYY,https://seekingalpha.com/symbol/SGPYY,The Sage Group plc,,Application Software,,,-,-,-,8090000000.0,0.0292,-,-,-,-,-
+96,KGDEF,https://seekingalpha.com/symbol/KGDEF,Kingdee International Software Group Company Limited,,Application Software,,,-,-,-,7650000000.0,-,-,-,-,-,-
+97,KGDEY,https://seekingalpha.com/symbol/KGDEY,Kingdee International Software Group Company Limited,,Application Software,,,-,-,-,7650000000.0,-,-,-,-,-,-
+98,CDAY,https://seekingalpha.com/symbol/CDAY,Ceridian HCM Holding Inc.,,Application Software,,,2.76,3,3.87,7590000000.0,-,D,B-,C+,D+,B+
+99,AVLR,https://seekingalpha.com/symbol/AVLR,"Avalara, Inc.",,Application Software,,,2.99,4,4.35,7430000000.0,-,F,B+,C+,C,A+
+100,XM,https://seekingalpha.com/symbol/XM,Qualtrics International Inc.,,Application Software,,,2.67,3,4.31,7370000000.0,-,D-,A+,D,D-,B+
+101,IOT,https://seekingalpha.com/symbol/IOT,Samsara Inc.,,Application Software,,,-,3,4.22,7230000000.0,-,-,-,-,-,-
+102,MANH,https://seekingalpha.com/symbol/MANH,"Manhattan Associates, Inc.",,Application Software,,,3.17,-,4.28,6880000000.0,-,D,D,A+,B-,A
+103,ESTC,https://seekingalpha.com/symbol/ESTC,Elastic N.V.,,Application Software,,,2.62,4,4.41,6840000000.0,-,F,A+,C-,C-,B-
+104,CFLT,https://seekingalpha.com/symbol/CFLT,"Confluent, Inc.",,Application Software,,,2.58,4,3.88,6690000000.0,-,F,A+,D,D,B+
+105,NEMKY,https://seekingalpha.com/symbol/NEMKY,Nemetschek SE,,Application Software,,,-,-,-,6580000000.0,-,-,-,-,-,-
+106,NEMTF,https://seekingalpha.com/symbol/NEMTF,Nemetschek SE,,Application Software,,,-,-,-,6580000000.0,-,-,-,-,-,-
+107,FIVN,https://seekingalpha.com/symbol/FIVN,"Five9, Inc.",,Application Software,,,3,4,4.47,6420000000.0,-,F,B+,C+,C,A
+108,CDK,https://seekingalpha.com/symbol/CDK,"CDK Global, Inc.",,Application Software,,,3.21,-,2,6390000000.0,-,B,D-,B+,A+,F
+109,HCP,https://seekingalpha.com/symbol/HCP,"HashiCorp, Inc.",,Application Software,,,-,1,4,6290000000.0,-,-,-,-,-,-
+110,PCOR,https://seekingalpha.com/symbol/PCOR,"Procore Technologies, Inc.",,Application Software,,,2.93,3,4.54,6150000000.0,-,D-,B-,D+,C-,A+
+111,GWRE,https://seekingalpha.com/symbol/GWRE,"Guidewire Software, Inc.",,Application Software,,,2.54,-,3.58,5920000000.0,-,D-,F,C-,C,D+
+112,TMNSF,https://seekingalpha.com/symbol/TMNSF,Temenos AG,,Application Software,,,-,-,-,5680000000.0,-,-,-,-,-,-
+113,TMSNY,https://seekingalpha.com/symbol/TMSNY,Temenos AG,,Application Software,,,2.94,-,2,5680000000.0,0.0131,D,D-,A-,C-,A
+114,CCCS,https://seekingalpha.com/symbol/CCCS,CCC Intelligent Solutions Holdings Inc.,,Application Software,,,3.89,-,4.12,5660000000.0,-,D+,B+,B,A-,B
+115,INFA,https://seekingalpha.com/symbol/INFA,Informatica Inc.,,Application Software,,,-,5,4.45,5640000000.0,-,-,-,-,-,-
+116,DSGX,https://seekingalpha.com/symbol/DSGX,The Descartes Systems Group Inc.,,Application Software,,,3.71,3.5,3.91,5400000000.0,-,D+,B,A,A-,C+
+117,VG,https://seekingalpha.com/symbol/VG,Vonage Holdings Corp.,,Application Software,,,3.14,5,2.71,5380000000.0,-,D-,C+,C,A+,C-
+118,RNG,https://seekingalpha.com/symbol/RNG,"RingCentral, Inc.",,Application Software,,,1.73,3,4.56,4650000000.0,-,D-,B+,D,F,A+
+119,COUP,https://seekingalpha.com/symbol/COUP,Coupa Software Incorporated,,Application Software,Spend Management,,2.64,3.66,3.71,4550000000.0,-,F,B,B,D-,A-
+120,TOITF,https://seekingalpha.com/symbol/TOITF,Topicus.com Inc.,,Application Software,,,-,4,-,4500000000.0,-,-,-,-,-,-
+121,PYCR,https://seekingalpha.com/symbol/PYCR,"Paycor HCM, Inc.",,Application Software,,,-,-,3.85,4390000000.0,-,-,-,-,-,-
+122,BRZE,https://seekingalpha.com/symbol/BRZE,"Braze, Inc.",,Application Software,,,-,3,4.46,4120000000.0,-,-,-,-,-,-
+123,ALTR,https://seekingalpha.com/symbol/ALTR,Altair Engineering Inc.,,Application Software,,,2.87,3,4,4099999999.9999995,-,D-,A-,B-,B-,B
+124,BL,https://seekingalpha.com/symbol/BL,"BlackLine, Inc.",,Application Software,,,2.65,4.5,3.75,4059999999.9999995,-,F,D+,B-,C+,B-
+125,DV,https://seekingalpha.com/symbol/DV,"DoubleVerify Holdings, Inc.",,Application Software,,,3.69,4,4.15,3960000000.0,-,D,A-,C+,B,B+
+126,SMAR,https://seekingalpha.com/symbol/SMAR,Smartsheet Inc.,,Application Software,,,2.66,4.5,4.46,3950000000.0,-,F,C-,D+,D,A-
+127,BOX,https://seekingalpha.com/symbol/BOX,"Box, Inc.",,Application Software,,,3.99,3,3.88,3840000000.0,-,C-,C+,A-,A,B-
+128,NCR,https://seekingalpha.com/symbol/NCR,NCR Corporation,,Application Software,,,2.61,4,4.62,3760000000.0,-,B+,D-,B,C-,D-
+129,NCRRP,https://seekingalpha.com/symbol/NCRRP,NCR Corporation 5.5% PFD CNV A,,Application Software,,,-,-,-,3760000000.0,-,-,-,-,-,-
+130,SPSC,https://seekingalpha.com/symbol/SPSC,"SPS Commerce, Inc.",,Application Software,,,4.11,3,4.11,3670000000.0,-,D,B-,B,B+,A
+131,PEGA,https://seekingalpha.com/symbol/PEGA,Pegasystems Inc.,,Application Software,,,1.32,3,3.9,3660000000.0,0.0026,F,A,C,D-,C+
+132,FRSH,https://seekingalpha.com/symbol/FRSH,Freshworks Inc.,,Application Software,,,-,4,3.85,3480000000.0,-,-,-,-,-,-
+133,NEWR,https://seekingalpha.com/symbol/NEWR,"New Relic, Inc.",,Application Software,,,2.54,4,3.61,3480000000.0,-,F,A+,D+,C,F
+134,APPF,https://seekingalpha.com/symbol/APPF,"AppFolio, Inc.",,Application Software,,,2.59,2,3.4,3350000000.0,-,F,F,C-,B-,D-
+135,NCNO,https://seekingalpha.com/symbol/NCNO,"nCino, Inc.",,Application Software,,,2.64,3.33,4.25,3340000000.0,-,D-,B-,C-,D+,B+
+136,ALRM,https://seekingalpha.com/symbol/ALRM,"Alarm.com Holdings, Inc.",,Application Software,,,2.93,-,4.11,3320000000.0,-,D,D,B-,A-,B-
+137,INST,https://seekingalpha.com/symbol/INST,"Instructure Holdings, Inc.",,Application Software,,,-,-,4.44,3320000000.0,-,-,-,-,-,-
+138,AYX,https://seekingalpha.com/symbol/AYX,"Alteryx, Inc.",,Application Software,,,3,4,3.94,3290000000.0,-,F,F,C-,C,A+
+139,ASAN,https://seekingalpha.com/symbol/ASAN,"Asana, Inc.",,Application Software,workflow,"MNDY, TEAM",1.09,3.66,3.81,3260000000.0,-,C,D+,D-,F,C
+140,NTNX,https://seekingalpha.com/symbol/NTNX,"Nutanix, Inc.",,Application Software,,,1.36,4,3.75,3230000000.0,-,C-,C-,D-,D,C
+141,WK,https://seekingalpha.com/symbol/WK,Workiva Inc.,,Application Software,,,2.57,3,4.37,3170000000.0,-,D-,D-,C-,D,B+
+142,YOU,https://seekingalpha.com/symbol/YOU,"Clear Secure, Inc.",,Application Software,,,1.7,2,3.66,3140000000.0,-,D,A,F,C-,C
+143,SPT,https://seekingalpha.com/symbol/SPT,"Sprout Social, Inc.",,Application Software,,,2.78,4,4.54,3050000000.0,-,F,D+,C,C,B+
+144,CWAN,https://seekingalpha.com/symbol/CWAN,"Clearwater Analytics Holdings, Inc.",,Application Software,,,-,-,3.9,3020000000.0,-,-,-,-,-,-
+145,ACIW,https://seekingalpha.com/symbol/ACIW,"ACI Worldwide, Inc.",,Application Software,,,3.06,-,4.83,2990000000.0,-,B-,D+,B,B+,B
+146,KXSCF,https://seekingalpha.com/symbol/KXSCF,Kinaxis Inc.,,Application Software,,,-,-,-,2980000000.0,-,-,-,-,-,-
+147,JAMF,https://seekingalpha.com/symbol/JAMF,Jamf Holding Corp.,,Application Software,,,2.58,-,4.18,2900000000.0,-,D,A-,B-,C+,D+
+148,FNOXF,https://seekingalpha.com/symbol/FNOXF,Fortnox AB (publ),,Application Software,,,-,-,-,2850000000.0,-,-,-,-,-,-
+149,BLKB,https://seekingalpha.com/symbol/BLKB,"Blackbaud, Inc.",,Application Software,,,2.82,2,3,2850000000.0,-,C-,F,B-,B,C+
+150,ENV,https://seekingalpha.com/symbol/ENV,"Envestnet, Inc.",,Application Software,,,2.54,4,3.5,2810000000.0,-,C,D,C+,C-,F
+151,LSPD,https://seekingalpha.com/symbol/LSPD,Lightspeed Commerce Inc.,,Application Software,,,-,3,4.16,2760000000.0,-,-,-,-,-,-
+152,ESMT,https://seekingalpha.com/symbol/ESMT,"EngageSmart, Inc.",,Application Software,,,-,-,4.4,2740000000.0,-,-,-,-,-,-
+153,SICRF,https://seekingalpha.com/symbol/SICRF,SimCorp A/S,,Application Software,,,-,-,-,2740000000.0,-,-,-,-,-,-
+154,SMCYY,https://seekingalpha.com/symbol/SMCYY,SimCorp A/S,,Application Software,,,-,-,-,2740000000.0,-,-,-,-,-,-
+155,CXM,https://seekingalpha.com/symbol/CXM,"Sprinklr, Inc.",,Application Software,,,3.02,3,3.9,2720000000.0,-,D-,B+,D+,C,A+
+156,VRNT,https://seekingalpha.com/symbol/VRNT,Verint Systems Inc.,,Application Software,,,2.96,-,4.44,2700000000.0,-,C,D,A,B+,C+
+157,CVT,https://seekingalpha.com/symbol/CVT,Cvent Holding Corp.,,Application Software,,,2.89,-,4,2620000000.0,-,B-,B-,B-,C,B+
+158,ALMFF,https://seekingalpha.com/symbol/ALMFF,Altium Limited,,Application Software,,,-,-,-,2600000000.0,-,-,-,-,-,-
+159,THNOF,https://seekingalpha.com/symbol/THNOF,Technology One Limited,,Application Software,,,-,-,-,2530000000.0,-,-,-,-,-,-
+160,NTCYF,https://seekingalpha.com/symbol/NTCYF,Netcompany Group A/S,,Application Software,,,-,-,-,2330000000.0,-,-,-,-,-,-
+161,MSTR,https://seekingalpha.com/symbol/MSTR,MicroStrategy Incorporated,,Application Software,,,1.08,3.16,4.5,2310000000.0,-,D+,D+,D,D-,D
+162,PD,https://seekingalpha.com/symbol/PD,"PagerDuty, Inc.",,Application Software,,,2.78,4,4.44,2300000000.0,-,F,B,C-,C+,B
+163,QTWO,https://seekingalpha.com/symbol/QTWO,"Q2 Holdings, Inc.",,Application Software,,,1.45,3,4.13,2250000000.0,-,D-,A-,C,D+,C-
+164,ETWO,https://seekingalpha.com/symbol/ETWO,"E2open Parent Holdings, Inc.",,Application Software,,,2.75,3.33,4.5,2190000000.0,-,A,B+,A-,C,D-
+165,AI,https://seekingalpha.com/symbol/AI,"C3.ai, Inc.",,Application Software,,,2.76,3.28,2.7,2029999999.9999998,-,C+,C,D,C-,B+
+166,DCT,https://seekingalpha.com/symbol/DCT,"Duck Creek Technologies, Inc.",,Application Software,,,1.51,-,4,1910000000.0,-,D+,D+,C,D,C
+167,EVCM,https://seekingalpha.com/symbol/EVCM,EverCommerce Inc.,,Application Software,,,2.78,-,4.25,1900000000.0,-,C+,A,C,C-,B
+168,IDCC,https://seekingalpha.com/symbol/IDCC,"InterDigital, Inc.",,Application Software,,,3.79,3,4.5,1880000000.0,0.0226,B-,B-,A-,A-,C+
+169,PGY,https://seekingalpha.com/symbol/PGY,Pagaya Technologies Ltd.,,Application Software,,,-,-,-,1880000000.0,-,-,-,-,-,-
+170,LNKLF,https://seekingalpha.com/symbol/LNKLF,Linklogis Inc.,,Application Software,,,-,-,-,1830000000.0,-,-,-,-,-,-
+171,RAMP,https://seekingalpha.com/symbol/RAMP,"LiveRamp Holdings, Inc.",,Application Software,,,2.57,-,4.55,1800000000.0,-,B,A,B-,C-,D-
+172,TMVWF,https://seekingalpha.com/symbol/TMVWF,TeamViewer AG,,Application Software,,,-,5,-,1740000000.0,-,-,-,-,-,-
+173,TMVWY,https://seekingalpha.com/symbol/TMVWY,TeamViewer AG,,Application Software,,,-,5,-,1740000000.0,-,-,-,-,-,-
+174,QTGPF,https://seekingalpha.com/symbol/QTGPF,Qt Group Oyj,,Application Software,,,-,-,-,1680000000.0,-,-,-,-,-,-
+175,APPS,https://seekingalpha.com/symbol/APPS,"Digital Turbine, Inc.",,Application Software,,,1.12,3.85,4.8,1670000000.0,-,B-,A,B+,F,F
+176,FORG,https://seekingalpha.com/symbol/FORG,"ForgeRock, Inc.",,Application Software,,,-,3,4.2,1670000000.0,-,-,-,-,-,-
+177,SEMR,https://seekingalpha.com/symbol/SEMR,"Semrush Holdings, Inc.",,Application Software,,,1.72,3.66,3.42,1640000000.0,-,D-,D,C+,C+,D
+178,OLO,https://seekingalpha.com/symbol/OLO,Olo Inc.,,Application Software,,,1.67,3.5,4.5,1630000000.0,-,D+,D-,D+,D+,B-
+179,AMPL,https://seekingalpha.com/symbol/AMPL,"Amplitude, Inc.",,Application Software,,,-,3,4.11,1630000000.0,-,-,-,-,-,-
+180,CLCMF,https://seekingalpha.com/symbol/CLCMF,Sinch AB (publ),,Application Software,,,-,-,-,1590000000.0,-,-,-,-,-,-
+181,VERX,https://seekingalpha.com/symbol/VERX,"Vertex, Inc.",,Application Software,,,2.56,-,3.77,1500000000.0,-,D,F,B-,D+,B-
+182,MLNK,https://seekingalpha.com/symbol/MLNK,"MeridianLink, Inc.",,Application Software,,,-,-,4,1460000000.0,-,-,-,-,-,-
+183,EXFY,https://seekingalpha.com/symbol/EXFY,"Expensify, Inc.",,Application Software,Spend Management,,-,3,3.85,1430000000.0,-,-,-,-,-,-
+184,WEMXF,https://seekingalpha.com/symbol/WEMXF,Weimob Inc.,,Application Software,,,-,-,-,1390000000.0,-,-,-,-,-,-
+185,MNTV,https://seekingalpha.com/symbol/MNTV,Momentive Global Inc.,,Application Software,,,1.77,-,4.16,1370000000.0,-,D+,B-,C,D-,B+
+186,SPNS,https://seekingalpha.com/symbol/SPNS,Sapiens International Corporation N.V.,,Application Software,,,4.24,4,4,1340000000.0,0.0187,C,C-,B,B+,A-
+187,GBGPF,https://seekingalpha.com/symbol/GBGPF,GB Group plc,,Application Software,,,-,-,-,1320000000.0,-,-,-,-,-,-
+188,LCTSF,https://seekingalpha.com/symbol/LCTSF,Lectra SA,,Application Software,,,-,-,-,1290000000.0,-,-,-,-,-,-
+189,LAW,https://seekingalpha.com/symbol/LAW,"CS Disco, Inc.",,Application Software,,,-,5,4.7,1260000000.0,-,-,-,-,-,-
+190,EGHSF,https://seekingalpha.com/symbol/EGHSF,Enghouse Systems Limited,,Application Software,,,-,4,-,1250000000.0,-,-,-,-,-,-
+191,HLTEF,https://seekingalpha.com/symbol/HLTEF,Hilan Ltd.,,Application Software,,,-,-,-,1240000000.0,-,-,-,-,-,-
+192,FREKF,https://seekingalpha.com/symbol/FREKF,freee K.K.,,Application Software,,,-,-,-,1220000000.0,-,-,-,-,-,-
+193,TUYA,https://seekingalpha.com/symbol/TUYA,Tuya Inc.,,Application Software,,,1.19,3.5,4.33,1190000000.0,-,A-,C,D-,D-,F
+194,AGYS,https://seekingalpha.com/symbol/AGYS,"Agilysys, Inc.",,Application Software,,,3.19,-,4.33,1170000000.0,-,D-,D-,B-,A+,B
+195,ALKT,https://seekingalpha.com/symbol/ALKT,"Alkami Technology, Inc.",,Application Software,,,2.55,3,4.28,1160000000.0,-,D+,B,D,C,C
+196,ENFN,https://seekingalpha.com/symbol/ENFN,"Enfusion, Inc.",,Application Software,,,-,4,4,1160000000.0,-,-,-,-,-,-
+197,MNYFF,https://seekingalpha.com/symbol/MNYFF,"Money Forward, Inc.",,Application Software,,,-,-,-,1150000000.0,-,-,-,-,-,-
+198,LTTHF,https://seekingalpha.com/symbol/LTTHF,Learning Technologies Group plc,,Application Software,,,-,-,-,1130000000.0,-,-,-,-,-,-
+199,PRO,https://seekingalpha.com/symbol/PRO,"PROS Holdings, Inc.",,Application Software,,,2.92,-,4.57,1110000000.0,-,B,D+,D-,C+,B
+200,MCFUF,https://seekingalpha.com/symbol/MCFUF,Micro Focus International plc,,Application Software,,,-,-,-,1100000000.0,-,-,-,-,-,-
+201,MFGP,https://seekingalpha.com/symbol/MFGP,Micro Focus International plc,,Application Software,,,3.35,2,3,1100000000.0,0.0893,A+,D,B-,D+,A-
+202,VOBIF,https://seekingalpha.com/symbol/VOBIF,Vobile Group Limited,,Application Software,,,-,-,-,1090000000.0,-,-,-,-,-,-
+203,MTTR,https://seekingalpha.com/symbol/MTTR,"Matterport, Inc.",,Application Software,,,1.25,3.8,4.14,1080000000.0,-,B-,A+,D-,F,C-
+204,TMOAF,https://seekingalpha.com/symbol/TMOAF,TomTom N.V.,,Application Software,,,-,-,-,1070000000.0000001,-,-,-,-,-,-
+205,TMOAY,https://seekingalpha.com/symbol/TMOAY,TomTom N.V.,,Application Software,,,-,-,-,1070000000.0000001,-,-,-,-,-,-
+206,DOMO,https://seekingalpha.com/symbol/DOMO,"Domo, Inc.",,Application Software,,,2.9,3.5,4.5,1010000000.0,-,B-,A+,F,D,A+
+207,BCHPY,https://seekingalpha.com/symbol/BCHPY,BrainChip Holdings Ltd,,Application Software,,,-,-,-,1010000000.0,-,-,-,-,-,-
+208,BRCHF,https://seekingalpha.com/symbol/BRCHF,BrainChip Holdings Ltd,,Application Software,,,-,-,-,1010000000.0,-,-,-,-,-,-
+209,LPSN,https://seekingalpha.com/symbol/LPSN,"LivePerson, Inc.",,Application Software,,,1.41,-,3.18,1000000000.0,-,D,D+,D+,D-,B+
+210,CLBT,https://seekingalpha.com/symbol/CLBT,Cellebrite DI Ltd.,,Application Software,,,2.63,-,4.66,992420000.0,-,C+,D-,A,C+,C-
+211,EVBG,https://seekingalpha.com/symbol/EVBG,"Everbridge, Inc.",,Application Software,,,1.26,2,3.41,981000000.0,-,D+,A+,C-,F,C
+212,CCSI,https://seekingalpha.com/symbol/CCSI,"Consensus Cloud Solutions, Inc.",,Application Software,,,-,-,4.6,962140000.0,-,-,-,-,-,-
+213,DYNDF,https://seekingalpha.com/symbol/DYNDF,Dye & Durham Limited,,Application Software,,,-,-,-,961210000.0,-,-,-,-,-,-
+214,CRNC,https://seekingalpha.com/symbol/CRNC,Cerence Inc.,,Application Software,,,1.45,3,3.83,960230000.0,-,B+,C+,B,D-,C
+215,INTA,https://seekingalpha.com/symbol/INTA,"Intapp, Inc.",,Application Software,,,2.62,-,4.5,926490000.0,-,D+,B,D,D+,B
+216,ZETA,https://seekingalpha.com/symbol/ZETA,Zeta Global Holdings Corp.,,Application Software,,,1.27,3,4.3,913180000.0,-,C-,A,D-,D,D
+217,MGIC,https://seekingalpha.com/symbol/MGIC,Magic Software Enterprises Ltd.,,Application Software,,,3.86,3,4.5,907730000.0,0.0241,C+,C-,B-,A,C+
+218,MODN,https://seekingalpha.com/symbol/MODN,"Model N, Inc.",,Application Software,,,2.83,3,4.37,907710000.0,-,D-,C,C,B+,B-
+219,DCBO,https://seekingalpha.com/symbol/DCBO,Docebo Inc.,,Application Software,,,1.17,3,4.22,883150000.0,-,F,C+,C-,D,D
+220,BTRS,https://seekingalpha.com/symbol/BTRS,BTRS Holdings Inc.,,Application Software,,,2.57,-,4.55,872620000.0,-,C-,D+,D+,C-,B-
+221,MARA,https://seekingalpha.com/symbol/MARA,"Marathon Digital Holdings, Inc.",,Application Software,,,1.32,3.8,4.37,854720000.0,-,A,A+,F,F,D
+222,SUMO,https://seekingalpha.com/symbol/SUMO,"Sumo Logic, Inc.",,Application Software,,,2.85,5,3.77,839060000.0,-,C+,C,D+,D,A
+223,USER,https://seekingalpha.com/symbol/USER,"UserTesting, Inc.",,Application Software,,,-,3,4.63,838620000.0,-,-,-,-,-,-
+224,AVPT,https://seekingalpha.com/symbol/AVPT,"AvePoint, Inc.",,Application Software,,,3.59,3,4.66,833620000.0,-,D+,A+,D+,C-,B+
+225,MTLS,https://seekingalpha.com/symbol/MTLS,Materialise NV,,Application Software,,,2.63,3,4.16,816850000.0,-,C-,C-,C+,C,B-
+226,ESKEF,https://seekingalpha.com/symbol/ESKEF,Esker SA,,Application Software,,,-,-,-,795350000.0,-,-,-,-,-,-
+227,SLVFF,https://seekingalpha.com/symbol/SLVFF,Silverlake Axis Ltd,,Application Software,,,-,-,-,771640000.0,-,-,-,-,-,-
+228,WKME,https://seekingalpha.com/symbol/WKME,WalkMe Ltd.,,Application Software,,,1.53,3,4,757180000.0,-,C-,A,D-,D-,B-
+229,RIOT,https://seekingalpha.com/symbol/RIOT,"Riot Blockchain, Inc.",,Application Software,,,1.4,3.5,4.75,753890000.0,-,A+,A-,F,F,C-
+230,SDLLF,https://seekingalpha.com/symbol/SDLLF,SDL plc,,Application Software,,,-,-,-,724890000.0,-,-,-,-,-,-
+231,RENN,https://seekingalpha.com/symbol/RENN,Renren Inc.,,Application Software,,,-,5,-,709920000.0,-,-,-,-,-,-
+232,SOUN,https://seekingalpha.com/symbol/SOUN,"SoundHound AI, Inc.",,Application Software,,,-,3,-,691690000.0,-,-,-,-,-,-
+233,SMWB,https://seekingalpha.com/symbol/SMWB,Similarweb Ltd.,,Application Software,,,2.77,3.66,4.62,690910000.0,-,D,B+,D-,D+,A+
+234,BASE,https://seekingalpha.com/symbol/BASE,"Couchbase, Inc.",,Application Software,,,-,3,4.33,690100000.0,-,-,-,-,-,-
+235,BLND,https://seekingalpha.com/symbol/BLND,"Blend Labs, Inc.",,Application Software,,,-,-,3.1,686190000.0,-,-,-,-,-,-
+236,OCFT,https://seekingalpha.com/symbol/OCFT,"OneConnect Financial Technology Co., Ltd.",,Application Software,,,2.85,-,3.6,679640000.0,-,B+,D,D+,B-,B
+237,FDRVF,https://seekingalpha.com/symbol/FDRVF,FD Technologies Plc,,Application Software,,,-,-,-,668410000.0,-,-,-,-,-,-
+238,RSKD,https://seekingalpha.com/symbol/RSKD,Riskified Ltd.,,Application Software,,,-,3,3.87,666780000.0,-,-,-,-,-,-
+239,ARQQ,https://seekingalpha.com/symbol/ARQQ,Arqit Quantum Inc.,,Application Software,,,1.02,3,4,665680000.0,-,D-,B+,F,D-,-
+240,KARO,https://seekingalpha.com/symbol/KARO,Karooooo Ltd.,,Application Software,,,2.53,3.5,4.6,662370000.0,-,C+,D,A+,C-,F
+241,APPIF,https://seekingalpha.com/symbol/APPIF,APPIER GROUP INC.,,Application Software,,,-,-,-,644080000.0,-,-,-,-,-,-
+242,RWWI,https://seekingalpha.com/symbol/RWWI,"Rand Worldwide, Inc.",,Application Software,,,-,-,-,604410000.0,-,-,-,-,-,-
+243,API,https://seekingalpha.com/symbol/API,"Agora, Inc.",,Application Software,,,1.36,-,4.33,589780000.0,-,A,C-,D,D-,F
+244,BOYJF,https://seekingalpha.com/symbol/BOYJF,Basware Oyj,,Application Software,,,-,-,-,577690000.0,-,-,-,-,-,-
+245,EBIX,https://seekingalpha.com/symbol/EBIX,"Ebix, Inc.",,Application Software,,,3.01,4,5,570190000.0,0.0158,A-,D+,C+,D+,A
+246,OPRA,https://seekingalpha.com/symbol/OPRA,Opera Limited,,Application Software,,,2.74,-,5,566470000.0,-,A,A,D-,C,F
+247,YEXT,https://seekingalpha.com/symbol/YEXT,"Yext, Inc.",,Application Software,,,2.54,4,3,559850000.0,-,C-,A,D+,D,B-
+248,MAGTF,https://seekingalpha.com/symbol/MAGTF,Magnet Forensics Inc.,,Application Software,,,-,-,-,556920000.0,-,-,-,-,-,-
+249,LCHTF,https://seekingalpha.com/symbol/LCHTF,LiveChat Software S.A.,,Application Software,,,-,-,-,553390000.0,-,-,-,-,-,-
+250,RMNI,https://seekingalpha.com/symbol/RMNI,"Rimini Street, Inc.",,Application Software,,,3.63,3,4.25,533559999.99999994,-,B+,C-,A+,A-,C-
+251,AMSWA,https://seekingalpha.com/symbol/AMSWA,"American Software, Inc.",,Application Software,,,2.59,-,4.75,529289999.99999994,0.0268,C,D+,B+,C+,C-
+252,FKCIF,https://seekingalpha.com/symbol/FKCIF,"Fukui Computer Holdings,Inc.",,Application Software,,,-,-,-,520110000.0,-,-,-,-,-,-
+253,EGHT,https://seekingalpha.com/symbol/EGHT,"8x8, Inc.",,Application Software,,,1.31,3,3.6,518470000.0,-,C,A+,C-,F,B
+254,MAPS,https://seekingalpha.com/symbol/MAPS,"WM Technology, Inc.",,Application Software,,,1.18,5,4.83,514070000.00000006,-,B-,A-,C,D-,D-
+255,RTME,https://seekingalpha.com/symbol/RTME,RTCORE Inc,,Application Software,,,-,-,-,499290000.0,-,-,-,-,-,-
+256,AFLQF,https://seekingalpha.com/symbol/AFLQF,Alfa Financial Software Holdings PLC,,Application Software,,,-,-,-,495370000.0,-,-,-,-,-,-
+257,ZIXI,https://seekingalpha.com/symbol/ZIXI,Zix Corporation,,Application Software,,,-,-,-,481870000.0,-,-,-,-,-,-
+258,CHNVF,https://seekingalpha.com/symbol/CHNVF,China Youzan Limited,,Application Software,,,-,-,-,474040000.0,-,-,-,-,-,-
+259,PSSWF,https://seekingalpha.com/symbol/PSSWF,PSI Software AG,,Application Software,,,-,-,-,463440000.0,-,-,-,-,-,-
+260,ECOM,https://seekingalpha.com/symbol/ECOM,ChannelAdvisor Corporation,,Application Software,,,2.68,-,4.4,440070000.0,-,B,F,B+,C+,C
+261,CIFR,https://seekingalpha.com/symbol/CIFR,Cipher Mining Inc.,,Application Software,,,-,-,-,430630000.0,-,-,-,-,-,-
+262,ONTF,https://seekingalpha.com/symbol/ONTF,"ON24, Inc.",,Application Software,,,1.56,-,3.16,429140000.0,-,B+,C,C-,D,C-
+263,NEAPF,https://seekingalpha.com/symbol/NEAPF,Nearmap Ltd,,Application Software,,,-,-,-,402580000.0,-,-,-,-,-,-
+264,MITK,https://seekingalpha.com/symbol/MITK,"Mitek Systems, Inc.",,Application Software,,,1.65,5,4.6,394690000.0,-,B-,D+,B+,D+,C-
+265,NWBTF,https://seekingalpha.com/symbol/NWBTF,Newborn Town Inc.,,Application Software,,,-,-,-,394540000.0,-,-,-,-,-,-
+266,SSTI,https://seekingalpha.com/symbol/SSTI,"ShotSpotter, Inc.",,Application Software,,,2.93,5,4.37,381610000.0,-,D-,A,B-,A,C
+267,ESIGF,https://seekingalpha.com/symbol/ESIGF,ESI Group SA,,Application Software,,,-,-,-,372500000.0,-,-,-,-,-,-
+268,UPLD,https://seekingalpha.com/symbol/UPLD,"Upland Software, Inc.",,Application Software,,,2.55,-,4.12,372320000.0,-,B+,D,B,D+,C
+269,INPRF,https://seekingalpha.com/symbol/INPRF,Inspur International Limited,,Application Software,,,-,-,-,368030000.0,-,-,-,-,-,-
+270,CPLFF,https://seekingalpha.com/symbol/CPLFF,Copperleaf Technologies Inc.,,Application Software,,,-,-,-,342590000.0,-,-,-,-,-,-
+271,DSP,https://seekingalpha.com/symbol/DSP,Viant Technology Inc.,,Application Software,,,2.6,-,4.33,317390000.0,-,A,F,C,D,C-
+272,LMGHF,https://seekingalpha.com/symbol/LMGHF,LINK Mobility Group Holding ASA,,Application Software,,,-,-,-,312280000.0,-,-,-,-,-,-
+273,TCIIF,https://seekingalpha.com/symbol/TCIIF,Tracsis plc,,Application Software,,,-,-,-,311240000.0,-,-,-,-,-,-
+274,MMCLF,https://seekingalpha.com/symbol/MMCLF,Mercell Holding ASA,,Application Software,,,-,-,-,310280000.0,-,-,-,-,-,-
+275,EGAN,https://seekingalpha.com/symbol/EGAN,eGain Corporation,,Application Software,,,3.3,-,4,308660000.0,-,D,D-,B-,A-,A
+276,LOQPF,https://seekingalpha.com/symbol/LOQPF,accesso Technology Group plc,,Application Software,,,-,-,-,301140000.0,-,-,-,-,-,-
+277,CEJOF,https://seekingalpha.com/symbol/CEJOF,Cresco Ltd.,,Application Software,,,-,-,-,297830000.0,-,-,-,-,-,-
+278,HIVE,https://seekingalpha.com/symbol/HIVE,HIVE Blockchain Technologies Ltd.,,Application Software,,,3.03,3.66,4.33,290540000.0,-,A+,A+,A-,F,B
+279,SERKF,https://seekingalpha.com/symbol/SERKF,Serko Limited,,Application Software,,,-,-,-,289590000.0,-,-,-,-,-,-
+280,NDTAF,https://seekingalpha.com/symbol/NDTAF,Northern Data AG,,Application Software,,,-,-,-,289190000.0,-,-,-,-,-,-
+281,GKSFF,https://seekingalpha.com/symbol/GKSFF,GK Software SE,,Application Software,,,-,-,-,287250000.0,-,-,-,-,-,-
+282,BRDLF,https://seekingalpha.com/symbol/BRDLF,"Broadleaf Co., Ltd.",,Application Software,,,-,-,-,282190000.0,-,-,-,-,-,-
+283,HUT,https://seekingalpha.com/symbol/HUT,Hut 8 Mining Corp.,,Application Software,,,1.36,3.33,4.6,278810000.0,-,A,B+,D-,F,C
+284,DMRC,https://seekingalpha.com/symbol/DMRC,Digimarc Corporation,,Application Software,,,1.09,-,3,277890000.0,-,C-,D,D-,D-,D-
+285,DOTDF,https://seekingalpha.com/symbol/DOTDF,dotdigital Group Plc,,Application Software,,,-,-,-,269620000.0,-,-,-,-,-,-
+286,CGNT,https://seekingalpha.com/symbol/CGNT,Cognyte Software Ltd.,,Application Software,,,1.13,-,3.66,267220000.00000003,-,A-,D,C-,F,D-
+287,BNFT,https://seekingalpha.com/symbol/BNFT,"Benefitfocus, Inc.",,Application Software,,,2.65,-,3,267149999.99999997,-,B,F,C,C-,B-
+288,KLTR,https://seekingalpha.com/symbol/KLTR,"Kaltura, Inc.",,Application Software,,,-,2,3.5,260490000.0,-,-,-,-,-,-
+289,NN,https://seekingalpha.com/symbol/NN,NextNav Inc.,,Application Software,,,1.06,4,-,253980000.0,-,C,A+,F,F,C
+290,BVSFF,https://seekingalpha.com/symbol/BVSFF,Bravura Solutions Limited,,Application Software,,,-,-,-,248050000.0,-,-,-,-,-,-
+291,WEAV,https://seekingalpha.com/symbol/WEAV,"Weave Communications, Inc.",,Application Software,,,-,3,4,246080000.0,-,-,-,-,-,-
+292,VGLIF,https://seekingalpha.com/symbol/VGLIF,Vista Group International Limited,,Application Software,,,-,-,-,242490000.0,-,-,-,-,-,-
+293,BITF,https://seekingalpha.com/symbol/BITF,Bitfarms Ltd.,,Application Software,,,2.72,3.75,4,241790000.0,-,A+,B+,F,F,A-
+294,FBSFF,https://seekingalpha.com/symbol/FBSFF,Fabasoft AG,,Application Software,,,-,-,-,241690000.0,-,-,-,-,-,-
+295,RPGHF,https://seekingalpha.com/symbol/RPGHF,RPMGlobal Holdings Limited,,Application Software,,,-,-,-,236420000.0,-,-,-,-,-,-
+296,VERI,https://seekingalpha.com/symbol/VERI,"Veritone, Inc.",,Application Software,,,1.28,3,3.57,235160000.0,-,B+,A+,D+,F,D
+297,OPESF,https://seekingalpha.com/symbol/OPESF,Otello Corporation ASA,,Application Software,,,-,-,-,233650000.0,-,-,-,-,-,-
+298,DAVE,https://seekingalpha.com/symbol/DAVE,Dave Inc.,,Application Software,,,1.01,3,-,224280000.0,-,A-,D+,D-,F,-
+299,FXSRF,https://seekingalpha.com/symbol/FXSRF,Fixstars Corporation,,Application Software,,,-,-,-,220420000.0,-,-,-,-,-,-
+300,NSWEF,https://seekingalpha.com/symbol/NSWEF,Nitro Software Limited,,Application Software,,,-,-,-,220010000.0,-,-,-,-,-,-
+301,BTGHF,https://seekingalpha.com/symbol/BTGHF,Bigtincan Holdings Limited,,Application Software,,,-,-,-,219540000.0,-,-,-,-,-,-
+302,SRNXF,https://seekingalpha.com/symbol/SRNXF,Sourcenext Corporation,,Application Software,,,-,-,-,217130000.0,-,-,-,-,-,-
+303,PPSSF,https://seekingalpha.com/symbol/PPSSF,Praemium Limited,,Application Software,,,-,-,-,215650000.0,-,-,-,-,-,-
+304,VXTRF,https://seekingalpha.com/symbol/VXTRF,Voxtur Analytics Corp.,,Application Software,,,-,-,-,208510000.0,-,-,-,-,-,-
+305,SNOW,https://seekingalpha.com/symbol/SNOW,Snowflake Inc.,,IT Infrastructure,,,2.72,3.4,4.34,47060000000.0,-,F,A+,B-,D+,B-
+306,SHOP,https://seekingalpha.com/symbol/SHOP,Shopify Inc.,,IT Infrastructure,,,1.24,3.65,3.84,39440000000.0,-,D-,B+,C+,F,D+
+307,VRSN,https://seekingalpha.com/symbol/VRSN,"VeriSign, Inc.",,IT Infrastructure,,,2.81,3.5,3,19440000000.0,-,C,D-,A+,B,D-
+308,MDB,https://seekingalpha.com/symbol/MDB,"MongoDB, Inc.",,IT Infrastructure,,,2.9,3.8,4.17,18900000000.0,-,F,B-,C-,C,B+
+309,TWLO,https://seekingalpha.com/symbol/TWLO,Twilio Inc.,,IT Infrastructure,,,2.55,3.81,4.5,15340000000.0,-,B-,B-,C-,D-,B
+310,NET,https://seekingalpha.com/symbol/NET,"Cloudflare, Inc.",,IT Infrastructure,,,1.3,3.38,3.9,15200000000.0,-,F,A+,C-,D-,C
+311,OKTA,https://seekingalpha.com/symbol/OKTA,"Okta, Inc.",,IT Infrastructure,,,2.8,4.16,4.41,14830000000.0,-,C-,C+,B-,D,A-
+312,AKAM,https://seekingalpha.com/symbol/AKAM,"Akamai Technologies, Inc.",,IT Infrastructure,,,2.77,3.66,4,14170000000.0,-,C+,D-,A-,B-,D
+313,GDDY,https://seekingalpha.com/symbol/GDDY,GoDaddy Inc.,,IT Infrastructure,,,3.84,5,4.45,11480000000.0,-,C,B+,B+,A-,B-
+314,SWCH,https://seekingalpha.com/symbol/SWCH,"Switch, Inc.",,IT Infrastructure,,,3.41,-,3.28,8260000000.0,0.0062,F,C-,D,A+,B
+315,GDS,https://seekingalpha.com/symbol/GDS,GDS Holdings Limited,,IT Infrastructure,,,2.53,-,4.5,5110000000.0,-,B,A-,D-,D+,C-
+316,DOCN,https://seekingalpha.com/symbol/DOCN,"DigitalOcean Holdings, Inc.",,IT Infrastructure,,,1.86,3.75,3.91,3600000000.0,-,D-,A-,C+,D+,B-
+317,WIX,https://seekingalpha.com/symbol/WIX,Wix.com Ltd.,,IT Infrastructure,,,1.8,-,3.94,3470000000.0,-,C+,B-,D,D-,C+
+318,SQSP,https://seekingalpha.com/symbol/SQSP,"Squarespace, Inc.",,IT Infrastructure,,,2.53,3,3.6,2930000000.0,-,D,C+,C+,C-,D-
+319,CD,https://seekingalpha.com/symbol/CD,Chindata Group Holdings Limited,,IT Infrastructure,,,3.15,3,4.44,2380000000.0,-,B,A+,D-,A,B
+320,CYXT,https://seekingalpha.com/symbol/CYXT,"Cyxtera Technologies, Inc.",,IT Infrastructure,,,3.77,-,4.12,2120000000.0,-,D+,B-,C-,A+,C-
+321,SWI,https://seekingalpha.com/symbol/SWI,SolarWinds Corporation,,IT Infrastructure,,,2.64,3,3,1720000000.0,-,A-,B+,A-,C-,F
+322,FSLY,https://seekingalpha.com/symbol/FSLY,"Fastly, Inc.",,IT Infrastructure,,,1.39,2.66,2.92,1410000000.0,-,B,D+,C-,D-,C+
+323,RXT,https://seekingalpha.com/symbol/RXT,"Rackspace Technology, Inc.",,IT Infrastructure,,,1.59,3,3.72,1260000000.0,-,A-,C-,C+,D-,D-
+324,BIGC,https://seekingalpha.com/symbol/BIGC,"BigCommerce Holdings, Inc.",,IT Infrastructure,,,1.31,5,3.92,1250000000.0,-,F,B,D,D,C-

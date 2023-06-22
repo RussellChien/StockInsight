@@ -1,0 +1,2602 @@
+[
+ {
+   "Ticker": "ATEN",
+   "Company Name": "A10 Networks, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1060000000.0",
+   "Valuation": "C-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "ORCL",
+   "Company Name": "Oracle Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "188520000000.0",
+   "Valuation": "C+",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "FTNT",
+   "Company Name": "Fortinet, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "48330000000.0",
+   "Valuation": "D-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "MSFT",
+   "Company Name": "Microsoft Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1900000000000.0",
+   "Valuation": "D-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "PANW",
+   "Company Name": "Palo Alto Networks, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "50710000000.0",
+   "Valuation": "F",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "SAIL",
+   "Company Name": "SailPoint Technologies Holdings, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "6000000000.0",
+   "Valuation": "F",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "QLYS",
+   "Company Name": "Qualys, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "4690000000.0",
+   "Valuation": "D",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "XPER",
+   "Company Name": "Xperi Holding Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1540000000.0",
+   "Valuation": "B+",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "TUFN",
+   "Company Name": "Tufin Software Technologies Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "484660000.0",
+   "Valuation": "D",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "CRWD",
+   "Company Name": "CrowdStrike Holdings, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "41290000000.0",
+   "Valuation": "F",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "PRGS",
+   "Company Name": "Progress Software Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1910000000.0",
+   "Valuation": "C-",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "MNDT",
+   "Company Name": "Mandiant, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "5150000000.0",
+   "Valuation": "D-",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "CHKP",
+   "Company Name": "Check Point Software Technologies Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "15720000000.0",
+   "Valuation": "C-",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "BKYI",
+   "Company Name": "BIO-key International, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "14140000.0",
+   "Valuation": "A-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "NLOK",
+   "Company Name": "NortonLifeLock Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "13350000000.0",
+   "Valuation": "C+",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "TMICY",
+   "Company Name": "Trend Micro Incorporated",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "7310000000.0",
+   "Valuation": "C+",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "VMW",
+   "Company Name": "VMware, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "45890000000.0",
+   "Valuation": "C+",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "ZS",
+   "Company Name": "Zscaler, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "21180000000.0",
+   "Valuation": "F",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "CVLT",
+   "Company Name": "Commvault Systems, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "2590000000.0",
+   "Valuation": "D+",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "NOW",
+   "Company Name": "ServiceNow, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "87320000000.0",
+   "Valuation": "D-",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "TENB",
+   "Company Name": "Tenable Holdings, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "5190000000.0",
+   "Valuation": "F",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "CYBR",
+   "Company Name": "CyberArk Software Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "5160000000.0",
+   "Valuation": "F",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "ABST",
+   "Company Name": "Absolute Software Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "429310000.0",
+   "Valuation": "C-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "KNBE",
+   "Company Name": "KnowBe4, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "2870000000.0",
+   "Valuation": "F",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "DLB",
+   "Company Name": "Dolby Laboratories, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "7370000000.0",
+   "Valuation": "D+",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "SCWX",
+   "Company Name": "SecureWorks Corp.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "858780000.0",
+   "Valuation": "B",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "FROG",
+   "Company Name": "JFrog Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "2180000000.0",
+   "Valuation": "D-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "TDC",
+   "Company Name": "Teradata Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "3830000000.0",
+   "Valuation": "C-",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "RPD",
+   "Company Name": "Rapid7, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "4010000000.0",
+   "Valuation": "D+",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "MNDY",
+   "Company Name": "monday.com Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "4160000000.0",
+   "Valuation": "D-",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "PING",
+   "Company Name": "Ping Identity Holding Corp.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1520000000.0",
+   "Valuation": "C-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "VRNS",
+   "Company Name": "Varonis Systems, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "3030000000.0",
+   "Valuation": "D-",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "APPN",
+   "Company Name": "Appian Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "3460000000.0",
+   "Valuation": "F",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "ALLT",
+   "Company Name": "Allot Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "180380000.0",
+   "Valuation": "B+",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "PATH",
+   "Company Name": "UiPath Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "10230000000.0",
+   "Valuation": "F",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "BB",
+   "Company Name": "BlackBerry Limited",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "3260000000.0",
+   "Valuation": "C+",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "IS",
+   "Company Name": "ironSource Ltd.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "3550000000.0",
+   "Valuation": "C",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "OSPN",
+   "Company Name": "OneSpan Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "427350000.0",
+   "Valuation": "B",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "S",
+   "Company Name": "SentinelOne, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "6650000000.0",
+   "Valuation": "D",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "TLS",
+   "Company Name": "Telos Corporation",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "506410000.0",
+   "Valuation": "C",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "ZUO",
+   "Company Name": "Zuora, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1120000000.0",
+   "Valuation": "D",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "IRNT",
+   "Company Name": "IronNet, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "246800000.0",
+   "Valuation": "D-",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "APGT",
+   "Company Name": "Appgate, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "988450000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ASOZF",
+   "Company Name": "Asseco Poland S.A.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1310000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ASOZY",
+   "Company Name": "Asseco Poland S.A.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1310000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ATDS",
+   "Company Name": "Data443 Risk Mitigation, Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "3340000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "AVASF",
+   "Company Name": "Avast plc",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "6560000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BPRMF",
+   "Company Name": "Blue Prism Group plc",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1480000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CRAYF",
+   "Company Name": "Crayon Group Holding ASA",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1180000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CSSDF",
+   "Company Name": "Kape Technologies PLC",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "1130000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DRKTF",
+   "Company Name": "Darktrace plc",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "2580000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DRKTY",
+   "Company Name": "Darktrace plc",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "2580000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "GTLB",
+   "Company Name": "GitLab Inc.",
+   "SeekingAlpha_Category": "System Software",
+   "Market Cap": "8320000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ADBE",
+   "Company Name": "Adobe Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "174550000000.0",
+   "Valuation": "D",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "CRM",
+   "Company Name": "Salesforce, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "160230000000.0",
+   "Valuation": "D+",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "INTU",
+   "Company Name": "Intuit Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "107150000000.0",
+   "Valuation": "D-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "SAP",
+   "Company Name": "SAP SE",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "102910000000.0",
+   "Valuation": "C+",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "TEAM",
+   "Company Name": "Atlassian Corporation Plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "48150000000.0",
+   "Valuation": "F",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "SNPS",
+   "Company Name": "Synopsys, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "46660000000.0",
+   "Valuation": "D",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "CDNS",
+   "Company Name": "Cadence Design Systems, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "43290000000.0",
+   "Valuation": "D-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "ROP",
+   "Company Name": "Roper Technologies, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "41850000000.0",
+   "Valuation": "D",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "ADSK",
+   "Company Name": "Autodesk, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "37140000000.0",
+   "Valuation": "D-",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "WDAY",
+   "Company Name": "Workday, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "35740000000.0",
+   "Valuation": "D",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "CNSWF",
+   "Company Name": "Constellation Software Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "31320000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ZM",
+   "Company Name": "Zoom Video Communications, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "29790000000.0",
+   "Valuation": "C-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "DDOG",
+   "Company Name": "Datadog, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "29490000000.0",
+   "Valuation": "F",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "TTD",
+   "Company Name": "The Trade Desk, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "20960000000.0",
+   "Valuation": "D-",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "ANSS",
+   "Company Name": "ANSYS, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "20390000000.0",
+   "Valuation": "D",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "PLTR",
+   "Company Name": "Palantir Technologies Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "18500000000.0",
+   "Valuation": "D-",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "PAYC",
+   "Company Name": "Paycom Software, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "17520000000.0",
+   "Valuation": "D-",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "SPLK",
+   "Company Name": "Splunk Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "15360000000.0",
+   "Valuation": "D+",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "TYL",
+   "Company Name": "Tyler Technologies, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "13620000000.0",
+   "Valuation": "D",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "HUBS",
+   "Company Name": "HubSpot, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "13070000000.0",
+   "Valuation": "F",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "CTXS",
+   "Company Name": "Citrix Systems, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "12980000000.0",
+   "Valuation": "D-",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "BILL",
+   "Company Name": "Bill.com Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "12740000000.0",
+   "Valuation": "D+",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "NCSYF",
+   "Company Name": "NICE Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "12460000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NICE",
+   "Company Name": "NICE Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "12460000000.0",
+   "Valuation": "D+",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "APP",
+   "Company Name": "AppLovin Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "12330000000.0",
+   "Valuation": "C",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "DOCU",
+   "Company Name": "DocuSign, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "12040000000.0",
+   "Valuation": "F",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "PTC",
+   "Company Name": "PTC Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "11730000000.0",
+   "Valuation": "D+",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "AZPN",
+   "Company Name": "Aspen Technology, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "11330000000.0",
+   "Valuation": "D",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "BSY",
+   "Company Name": "Bentley Systems, Incorporated",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "10670000000.0",
+   "Valuation": "F",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "DT",
+   "Company Name": "Dynatrace, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "10420000000.0",
+   "Valuation": "D-",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "OTEX",
+   "Company Name": "Open Text Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "10060000000.0",
+   "Valuation": "B-",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "U",
+   "Company Name": "Unity Software Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "10050000000.0",
+   "Valuation": "D-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "PCTY",
+   "Company Name": "Paylocity Holding Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "9950000000.0",
+   "Valuation": "F",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "WIGBY",
+   "Company Name": "WiseTech Global Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "9730000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "WTCHF",
+   "Company Name": "WiseTech Global Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "9730000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BKI",
+   "Company Name": "Black Knight, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "9670000000.0",
+   "Valuation": "C-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "ZEN",
+   "Company Name": "Zendesk, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "9160000000.0",
+   "Valuation": "F",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "XROLF",
+   "Company Name": "Xero Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "8780000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "AVEVF",
+   "Company Name": "AVEVA Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "8140000000.000001",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "AVVYY",
+   "Company Name": "AVEVA Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "8140000000.000001",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DBX",
+   "Company Name": "Dropbox, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "8100000000.0",
+   "Valuation": "B-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "SGGEF",
+   "Company Name": "The Sage Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "8090000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SGPYY",
+   "Company Name": "The Sage Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "8090000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "KGDEF",
+   "Company Name": "Kingdee International Software Group Company Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "7650000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "KGDEY",
+   "Company Name": "Kingdee International Software Group Company Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "7650000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CDAY",
+   "Company Name": "Ceridian HCM Holding Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "7590000000.0",
+   "Valuation": "D",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "AVLR",
+   "Company Name": "Avalara, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "7430000000.0",
+   "Valuation": "F",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "XM",
+   "Company Name": "Qualtrics International Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "7370000000.0",
+   "Valuation": "D-",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "IOT",
+   "Company Name": "Samsara Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "7230000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MANH",
+   "Company Name": "Manhattan Associates, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6880000000.0",
+   "Valuation": "D",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "ESTC",
+   "Company Name": "Elastic N.V.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6840000000.0",
+   "Valuation": "F",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "CFLT",
+   "Company Name": "Confluent, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6690000000.0",
+   "Valuation": "F",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "NEMKY",
+   "Company Name": "Nemetschek SE",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6580000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NEMTF",
+   "Company Name": "Nemetschek SE",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6580000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "FIVN",
+   "Company Name": "Five9, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6420000000.0",
+   "Valuation": "F",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "CDK",
+   "Company Name": "CDK Global, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6390000000.0",
+   "Valuation": "B",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "HCP",
+   "Company Name": "HashiCorp, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6290000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "PCOR",
+   "Company Name": "Procore Technologies, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "6150000000.0",
+   "Valuation": "D-",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "GWRE",
+   "Company Name": "Guidewire Software, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5920000000.0",
+   "Valuation": "D-",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "TMNSF",
+   "Company Name": "Temenos AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5680000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "TMSNY",
+   "Company Name": "Temenos AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5680000000.0",
+   "Valuation": "D",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "CCCS",
+   "Company Name": "CCC Intelligent Solutions Holdings Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5660000000.0",
+   "Valuation": "D+",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "INFA",
+   "Company Name": "Informatica Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5640000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DSGX",
+   "Company Name": "The Descartes Systems Group Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5400000000.0",
+   "Valuation": "D+",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "VG",
+   "Company Name": "Vonage Holdings Corp.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "5380000000.0",
+   "Valuation": "D-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "RNG",
+   "Company Name": "RingCentral, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4650000000.0",
+   "Valuation": "D-",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "COUP",
+   "Company Name": "Coupa Software Incorporated",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4550000000.0",
+   "Valuation": "F",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "TOITF",
+   "Company Name": "Topicus.com Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4500000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "PYCR",
+   "Company Name": "Paycor HCM, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4390000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BRZE",
+   "Company Name": "Braze, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4120000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ALTR",
+   "Company Name": "Altair Engineering Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4099999999.9999995",
+   "Valuation": "D-",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "BL",
+   "Company Name": "BlackLine, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "4059999999.9999995",
+   "Valuation": "F",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "DV",
+   "Company Name": "DoubleVerify Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3960000000.0",
+   "Valuation": "D",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "SMAR",
+   "Company Name": "Smartsheet Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3950000000.0",
+   "Valuation": "F",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "BOX",
+   "Company Name": "Box, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3840000000.0",
+   "Valuation": "C-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "NCR",
+   "Company Name": "NCR Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3760000000.0",
+   "Valuation": "B+",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "NCRRP",
+   "Company Name": "NCR Corporation 5.5% PFD CNV A",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3760000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SPSC",
+   "Company Name": "SPS Commerce, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3670000000.0",
+   "Valuation": "D",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "PEGA",
+   "Company Name": "Pegasystems Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3660000000.0",
+   "Valuation": "F",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "FRSH",
+   "Company Name": "Freshworks Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3480000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NEWR",
+   "Company Name": "New Relic, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3480000000.0",
+   "Valuation": "F",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "APPF",
+   "Company Name": "AppFolio, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3350000000.0",
+   "Valuation": "F",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "NCNO",
+   "Company Name": "nCino, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3340000000.0",
+   "Valuation": "D-",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "ALRM",
+   "Company Name": "Alarm.com Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3320000000.0",
+   "Valuation": "D",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "INST",
+   "Company Name": "Instructure Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3320000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "AYX",
+   "Company Name": "Alteryx, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3290000000.0",
+   "Valuation": "F",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "ASAN",
+   "Company Name": "Asana, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3260000000.0",
+   "Valuation": "C",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "NTNX",
+   "Company Name": "Nutanix, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3230000000.0",
+   "Valuation": "C-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "WK",
+   "Company Name": "Workiva Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3170000000.0",
+   "Valuation": "D-",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "YOU",
+   "Company Name": "Clear Secure, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3140000000.0",
+   "Valuation": "D",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "SPT",
+   "Company Name": "Sprout Social, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3050000000.0",
+   "Valuation": "F",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "CWAN",
+   "Company Name": "Clearwater Analytics Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "3020000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ACIW",
+   "Company Name": "ACI Worldwide, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2990000000.0",
+   "Valuation": "B-",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "KXSCF",
+   "Company Name": "Kinaxis Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2980000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "JAMF",
+   "Company Name": "Jamf Holding Corp.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2900000000.0",
+   "Valuation": "D",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "FNOXF",
+   "Company Name": "Fortnox AB (publ)",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2850000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BLKB",
+   "Company Name": "Blackbaud, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2850000000.0",
+   "Valuation": "C-",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "ENV",
+   "Company Name": "Envestnet, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2810000000.0",
+   "Valuation": "C",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "LSPD",
+   "Company Name": "Lightspeed Commerce Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2760000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ESMT",
+   "Company Name": "EngageSmart, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2740000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SICRF",
+   "Company Name": "SimCorp A/S",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2740000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SMCYY",
+   "Company Name": "SimCorp A/S",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2740000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CXM",
+   "Company Name": "Sprinklr, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2720000000.0",
+   "Valuation": "D-",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "VRNT",
+   "Company Name": "Verint Systems Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2700000000.0",
+   "Valuation": "C",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "CVT",
+   "Company Name": "Cvent Holding Corp.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2620000000.0",
+   "Valuation": "B-",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "ALMFF",
+   "Company Name": "Altium Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2600000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "THNOF",
+   "Company Name": "Technology One Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2530000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NTCYF",
+   "Company Name": "Netcompany Group A/S",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2330000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MSTR",
+   "Company Name": "MicroStrategy Incorporated",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2310000000.0",
+   "Valuation": "D+",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "PD",
+   "Company Name": "PagerDuty, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2300000000.0",
+   "Valuation": "F",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "QTWO",
+   "Company Name": "Q2 Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2250000000.0",
+   "Valuation": "D-",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "ETWO",
+   "Company Name": "E2open Parent Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2190000000.0",
+   "Valuation": "A",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "AI",
+   "Company Name": "C3.ai, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "2029999999.9999998",
+   "Valuation": "C+",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "DCT",
+   "Company Name": "Duck Creek Technologies, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1910000000.0",
+   "Valuation": "D+",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "EVCM",
+   "Company Name": "EverCommerce Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1900000000.0",
+   "Valuation": "C+",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "IDCC",
+   "Company Name": "InterDigital, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1880000000.0",
+   "Valuation": "B-",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "PGY",
+   "Company Name": "Pagaya Technologies Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1880000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "LNKLF",
+   "Company Name": "Linklogis Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1830000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "RAMP",
+   "Company Name": "LiveRamp Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1800000000.0",
+   "Valuation": "B",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "TMVWF",
+   "Company Name": "TeamViewer AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1740000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "TMVWY",
+   "Company Name": "TeamViewer AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1740000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "QTGPF",
+   "Company Name": "Qt Group Oyj",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1680000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "APPS",
+   "Company Name": "Digital Turbine, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1670000000.0",
+   "Valuation": "B-",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "FORG",
+   "Company Name": "ForgeRock, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1670000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SEMR",
+   "Company Name": "Semrush Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1640000000.0",
+   "Valuation": "D-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "OLO",
+   "Company Name": "Olo Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1630000000.0",
+   "Valuation": "D+",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "AMPL",
+   "Company Name": "Amplitude, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1630000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CLCMF",
+   "Company Name": "Sinch AB (publ)",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1590000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "VERX",
+   "Company Name": "Vertex, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1500000000.0",
+   "Valuation": "D",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "MLNK",
+   "Company Name": "MeridianLink, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1460000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "EXFY",
+   "Company Name": "Expensify, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1430000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "WEMXF",
+   "Company Name": "Weimob Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1390000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MNTV",
+   "Company Name": "Momentive Global Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1370000000.0",
+   "Valuation": "D+",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "SPNS",
+   "Company Name": "Sapiens International Corporation N.V.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1340000000.0",
+   "Valuation": "C",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "GBGPF",
+   "Company Name": "GB Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1320000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "LCTSF",
+   "Company Name": "Lectra SA",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1290000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "LAW",
+   "Company Name": "CS Disco, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1260000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "EGHSF",
+   "Company Name": "Enghouse Systems Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1250000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "HLTEF",
+   "Company Name": "Hilan Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1240000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "FREKF",
+   "Company Name": "freee K.K.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1220000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "TUYA",
+   "Company Name": "Tuya Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1190000000.0",
+   "Valuation": "A-",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "AGYS",
+   "Company Name": "Agilysys, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1170000000.0",
+   "Valuation": "D-",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "ALKT",
+   "Company Name": "Alkami Technology, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1160000000.0",
+   "Valuation": "D+",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "ENFN",
+   "Company Name": "Enfusion, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1160000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MNYFF",
+   "Company Name": "Money Forward, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1150000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "LTTHF",
+   "Company Name": "Learning Technologies Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1130000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "PRO",
+   "Company Name": "PROS Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1110000000.0",
+   "Valuation": "B",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "MCFUF",
+   "Company Name": "Micro Focus International plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1100000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MFGP",
+   "Company Name": "Micro Focus International plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1100000000.0",
+   "Valuation": "A+",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "VOBIF",
+   "Company Name": "Vobile Group Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1090000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MTTR",
+   "Company Name": "Matterport, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1080000000.0",
+   "Valuation": "B-",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "TMOAF",
+   "Company Name": "TomTom N.V.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1070000000.0000001",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "TMOAY",
+   "Company Name": "TomTom N.V.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1070000000.0000001",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DOMO",
+   "Company Name": "Domo, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1010000000.0",
+   "Valuation": "B-",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "BCHPY",
+   "Company Name": "BrainChip Holdings Ltd",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1010000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BRCHF",
+   "Company Name": "BrainChip Holdings Ltd",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1010000000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "LPSN",
+   "Company Name": "LivePerson, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "1000000000.0",
+   "Valuation": "D",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "CLBT",
+   "Company Name": "Cellebrite DI Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "992420000.0",
+   "Valuation": "C+",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "EVBG",
+   "Company Name": "Everbridge, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "981000000.0",
+   "Valuation": "D+",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "CCSI",
+   "Company Name": "Consensus Cloud Solutions, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "962140000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DYNDF",
+   "Company Name": "Dye & Durham Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "961210000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CRNC",
+   "Company Name": "Cerence Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "960230000.0",
+   "Valuation": "B+",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "INTA",
+   "Company Name": "Intapp, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "926490000.0",
+   "Valuation": "D+",
+   "Growth": "B"
+ },
+ {
+   "Ticker": "ZETA",
+   "Company Name": "Zeta Global Holdings Corp.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "913180000.0",
+   "Valuation": "C-",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "MGIC",
+   "Company Name": "Magic Software Enterprises Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "907730000.0",
+   "Valuation": "C+",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "MODN",
+   "Company Name": "Model N, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "907710000.0",
+   "Valuation": "D-",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "DCBO",
+   "Company Name": "Docebo Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "883150000.0",
+   "Valuation": "F",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "BTRS",
+   "Company Name": "BTRS Holdings Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "872620000.0",
+   "Valuation": "C-",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "MARA",
+   "Company Name": "Marathon Digital Holdings, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "854720000.0",
+   "Valuation": "A",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "SUMO",
+   "Company Name": "Sumo Logic, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "839060000.0",
+   "Valuation": "C+",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "USER",
+   "Company Name": "UserTesting, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "838620000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "AVPT",
+   "Company Name": "AvePoint, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "833620000.0",
+   "Valuation": "D+",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "MTLS",
+   "Company Name": "Materialise NV",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "816850000.0",
+   "Valuation": "C-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "ESKEF",
+   "Company Name": "Esker SA",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "795350000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SLVFF",
+   "Company Name": "Silverlake Axis Ltd",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "771640000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "WKME",
+   "Company Name": "WalkMe Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "757180000.0",
+   "Valuation": "C-",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "RIOT",
+   "Company Name": "Riot Blockchain, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "753890000.0",
+   "Valuation": "A+",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "SDLLF",
+   "Company Name": "SDL plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "724890000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "RENN",
+   "Company Name": "Renren Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "709920000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SOUN",
+   "Company Name": "SoundHound AI, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "691690000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SMWB",
+   "Company Name": "Similarweb Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "690910000.0",
+   "Valuation": "D",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "BASE",
+   "Company Name": "Couchbase, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "690100000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BLND",
+   "Company Name": "Blend Labs, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "686190000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "OCFT",
+   "Company Name": "OneConnect Financial Technology Co., Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "679640000.0",
+   "Valuation": "B+",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "FDRVF",
+   "Company Name": "FD Technologies Plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "668410000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "RSKD",
+   "Company Name": "Riskified Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "666780000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ARQQ",
+   "Company Name": "Arqit Quantum Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "665680000.0",
+   "Valuation": "D-",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "KARO",
+   "Company Name": "Karooooo Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "662370000.0",
+   "Valuation": "C+",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "APPIF",
+   "Company Name": "APPIER GROUP INC.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "644080000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "RWWI",
+   "Company Name": "Rand Worldwide, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "604410000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "API",
+   "Company Name": "Agora, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "589780000.0",
+   "Valuation": "A",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "BOYJF",
+   "Company Name": "Basware Oyj",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "577690000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "EBIX",
+   "Company Name": "Ebix, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "570190000.0",
+   "Valuation": "A-",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "OPRA",
+   "Company Name": "Opera Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "566470000.0",
+   "Valuation": "A",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "YEXT",
+   "Company Name": "Yext, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "559850000.0",
+   "Valuation": "C-",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "MAGTF",
+   "Company Name": "Magnet Forensics Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "556920000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "LCHTF",
+   "Company Name": "LiveChat Software S.A.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "553390000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "RMNI",
+   "Company Name": "Rimini Street, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "533559999.99999994",
+   "Valuation": "B+",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "AMSWA",
+   "Company Name": "American Software, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "529289999.99999994",
+   "Valuation": "C",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "FKCIF",
+   "Company Name": "Fukui Computer Holdings,Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "520110000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "EGHT",
+   "Company Name": "8x8, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "518470000.0",
+   "Valuation": "C",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "MAPS",
+   "Company Name": "WM Technology, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "514070000.00000006",
+   "Valuation": "B-",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "RTME",
+   "Company Name": "RTCORE Inc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "499290000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "AFLQF",
+   "Company Name": "Alfa Financial Software Holdings PLC",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "495370000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ZIXI",
+   "Company Name": "Zix Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "481870000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CHNVF",
+   "Company Name": "China Youzan Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "474040000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "PSSWF",
+   "Company Name": "PSI Software AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "463440000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ECOM",
+   "Company Name": "ChannelAdvisor Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "440070000.0",
+   "Valuation": "B",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "CIFR",
+   "Company Name": "Cipher Mining Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "430630000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "ONTF",
+   "Company Name": "ON24, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "429140000.0",
+   "Valuation": "B+",
+   "Growth": "C"
+ },
+ {
+   "Ticker": "NEAPF",
+   "Company Name": "Nearmap Ltd",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "402580000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MITK",
+   "Company Name": "Mitek Systems, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "394690000.0",
+   "Valuation": "B-",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "NWBTF",
+   "Company Name": "Newborn Town Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "394540000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SSTI",
+   "Company Name": "ShotSpotter, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "381610000.0",
+   "Valuation": "D-",
+   "Growth": "A"
+ },
+ {
+   "Ticker": "ESIGF",
+   "Company Name": "ESI Group SA",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "372500000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "UPLD",
+   "Company Name": "Upland Software, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "372320000.0",
+   "Valuation": "B+",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "INPRF",
+   "Company Name": "Inspur International Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "368030000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CPLFF",
+   "Company Name": "Copperleaf Technologies Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "342590000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DSP",
+   "Company Name": "Viant Technology Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "317390000.0",
+   "Valuation": "A",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "LMGHF",
+   "Company Name": "LINK Mobility Group Holding ASA",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "312280000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "TCIIF",
+   "Company Name": "Tracsis plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "311240000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "MMCLF",
+   "Company Name": "Mercell Holding ASA",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "310280000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "EGAN",
+   "Company Name": "eGain Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "308660000.0",
+   "Valuation": "D",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "LOQPF",
+   "Company Name": "accesso Technology Group plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "301140000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CEJOF",
+   "Company Name": "Cresco Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "297830000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "HIVE",
+   "Company Name": "HIVE Blockchain Technologies Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "290540000.0",
+   "Valuation": "A+",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "SERKF",
+   "Company Name": "Serko Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "289590000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NDTAF",
+   "Company Name": "Northern Data AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "289190000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "GKSFF",
+   "Company Name": "GK Software SE",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "287250000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BRDLF",
+   "Company Name": "Broadleaf Co., Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "282190000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "HUT",
+   "Company Name": "Hut 8 Mining Corp.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "278810000.0",
+   "Valuation": "A",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "DMRC",
+   "Company Name": "Digimarc Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "277890000.0",
+   "Valuation": "C-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "DOTDF",
+   "Company Name": "dotdigital Group Plc",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "269620000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "CGNT",
+   "Company Name": "Cognyte Software Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "267220000.00000003",
+   "Valuation": "A-",
+   "Growth": "D"
+ },
+ {
+   "Ticker": "BNFT",
+   "Company Name": "Benefitfocus, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "267149999.99999997",
+   "Valuation": "B",
+   "Growth": "F"
+ },
+ {
+   "Ticker": "KLTR",
+   "Company Name": "Kaltura, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "260490000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NN",
+   "Company Name": "NextNav Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "253980000.0",
+   "Valuation": "C",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "BVSFF",
+   "Company Name": "Bravura Solutions Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "248050000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "WEAV",
+   "Company Name": "Weave Communications, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "246080000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "VGLIF",
+   "Company Name": "Vista Group International Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "242490000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BITF",
+   "Company Name": "Bitfarms Ltd.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "241790000.0",
+   "Valuation": "A+",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "FBSFF",
+   "Company Name": "Fabasoft AG",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "241690000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "RPGHF",
+   "Company Name": "RPMGlobal Holdings Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "236420000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "VERI",
+   "Company Name": "Veritone, Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "235160000.0",
+   "Valuation": "B+",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "OPESF",
+   "Company Name": "Otello Corporation ASA",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "233650000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "DAVE",
+   "Company Name": "Dave Inc.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "224280000.0",
+   "Valuation": "A-",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "FXSRF",
+   "Company Name": "Fixstars Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "220420000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "NSWEF",
+   "Company Name": "Nitro Software Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "220010000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "BTGHF",
+   "Company Name": "Bigtincan Holdings Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "219540000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SRNXF",
+   "Company Name": "Sourcenext Corporation",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "217130000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "PPSSF",
+   "Company Name": "Praemium Limited",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "215650000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "VXTRF",
+   "Company Name": "Voxtur Analytics Corp.",
+   "SeekingAlpha_Category": "Application Software",
+   "Market Cap": "208510000.0",
+   "Valuation": "-",
+   "Growth": "-"
+ },
+ {
+   "Ticker": "SNOW",
+   "Company Name": "Snowflake Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "47060000000.0",
+   "Valuation": "F",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "SHOP",
+   "Company Name": "Shopify Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "39440000000.0",
+   "Valuation": "D-",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "VRSN",
+   "Company Name": "VeriSign, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "19440000000.0",
+   "Valuation": "C",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "MDB",
+   "Company Name": "MongoDB, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "18900000000.0",
+   "Valuation": "F",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "TWLO",
+   "Company Name": "Twilio Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "15340000000.0",
+   "Valuation": "B-",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "NET",
+   "Company Name": "Cloudflare, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "15200000000.0",
+   "Valuation": "F",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "OKTA",
+   "Company Name": "Okta, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "14830000000.0",
+   "Valuation": "C-",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "AKAM",
+   "Company Name": "Akamai Technologies, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "14170000000.0",
+   "Valuation": "C+",
+   "Growth": "D-"
+ },
+ {
+   "Ticker": "GDDY",
+   "Company Name": "GoDaddy Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "11480000000.0",
+   "Valuation": "C",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "SWCH",
+   "Company Name": "Switch, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "8260000000.0",
+   "Valuation": "F",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "GDS",
+   "Company Name": "GDS Holdings Limited",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "5110000000.0",
+   "Valuation": "B",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "DOCN",
+   "Company Name": "DigitalOcean Holdings, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "3600000000.0",
+   "Valuation": "D-",
+   "Growth": "A-"
+ },
+ {
+   "Ticker": "WIX",
+   "Company Name": "Wix.com Ltd.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "3470000000.0",
+   "Valuation": "C+",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "SQSP",
+   "Company Name": "Squarespace, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "2930000000.0",
+   "Valuation": "D",
+   "Growth": "C+"
+ },
+ {
+   "Ticker": "CD",
+   "Company Name": "Chindata Group Holdings Limited",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "2380000000.0",
+   "Valuation": "B",
+   "Growth": "A+"
+ },
+ {
+   "Ticker": "CYXT",
+   "Company Name": "Cyxtera Technologies, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "2120000000.0",
+   "Valuation": "D+",
+   "Growth": "B-"
+ },
+ {
+   "Ticker": "SWI",
+   "Company Name": "SolarWinds Corporation",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "1720000000.0",
+   "Valuation": "A-",
+   "Growth": "B+"
+ },
+ {
+   "Ticker": "FSLY",
+   "Company Name": "Fastly, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "1410000000.0",
+   "Valuation": "B",
+   "Growth": "D+"
+ },
+ {
+   "Ticker": "RXT",
+   "Company Name": "Rackspace Technology, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "1260000000.0",
+   "Valuation": "A-",
+   "Growth": "C-"
+ },
+ {
+   "Ticker": "BIGC",
+   "Company Name": "BigCommerce Holdings, Inc.",
+   "SeekingAlpha_Category": "IT Infrastructure",
+   "Market Cap": "1250000000.0",
+   "Valuation": "F",
+   "Growth": "B"
+ }
+]

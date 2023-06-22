@@ -1,0 +1,38 @@
+[
+    {
+        "AKA": ["MNDY", "Monday", "Monday.com"],
+        "site": "glassdoor.com",
+        "url": "https://www.glassdoor.com/Reviews/monday-com-Reviews-E725019.htm",
+        "rating": "4.6",
+        "# of ratings": 263,
+        "rating history": [4.2, 4.3, 4.4, 4.4, 4.5],
+        "popularity": [4.1, 4.0, 4.2, 4.3, 4.5]
+    },
+    {
+        "AKA": ["MNDY", "Monday", "Monday.com"],
+        "site": "gartner.com",
+        "url": "https://www.gartner.com/reviews/market/project-portfolio-management-worldwide/vendor/monday-com/product/monday",
+        "rating": "4.4",
+        "# of ratings": 2034,
+        "rating history": [3.55, 4.5, 4.7, 3.9, 4.5],
+        "popularity": [3.55, 4.5, 4.7, 3.9, 4.5]
+    },
+    {
+        "AKA": ["MSFT", "Microsoft"],
+        "site": "glassdoor.com",
+        "url": "https://www.glassdoor.com/Overview/Working-at-Microsoft-EI_IE1651.11,20.htm",
+        "rating": "4.4",
+        "# of ratings": 34545,
+        "rating history": [4.2, 4.3, 4.4, 4.4, 4.5],
+        "popularity": [4.1, 4.0, 4.2, 4.3, 4.5]
+    },
+    {
+        "AKA": ["MSFT", "Microsoft"],
+        "site": "gartner.com",
+        "url": "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/microsoft",
+        "rating": "4.4",
+        "# of ratings": 1283,
+        "rating history": [3.55, 4.5, 4.7, 3.9, 4.5],
+        "popularity": [3.55, 4.5, 4.7, 3.9, 4.5]
+    }
+]
